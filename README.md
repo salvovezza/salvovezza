@@ -6,6 +6,3 @@
 
 
 salvovezza/salvovezza is a ✨ special ✨ repository because its `READM[Curriculum Vitae (updated).pdf](https://github.com/salvovezza/salvovezza/files/13827073/Curriculum.Vitae.updated.pdf)
-E.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
