@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salvovezza
-- 👀 I’m interested in programming using JavaScript, C++
+- 👀 I’m interested in programming using JavaScript, C++, and would welcome working remotely
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me salvovezza@yahoo.co.uk / Tel. 07973576680
